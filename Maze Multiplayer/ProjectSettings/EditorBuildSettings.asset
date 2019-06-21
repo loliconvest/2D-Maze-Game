@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Maze1.unity
+    guid: ce4a5f2bba736ab4e839fff5563bfda3
+  - enabled: 1
+    path: Assets/Scenes/Maze2.unity
+    guid: 4c6286f324408894392b882ed80b7257
+  m_configObjects: {}
