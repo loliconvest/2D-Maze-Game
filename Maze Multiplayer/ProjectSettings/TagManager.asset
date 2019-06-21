@@ -41,18 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 684394011
-    locked: 0
   - name: Side
     uniqueID: 2374695099
     locked: 0
   - name: Object
     uniqueID: 781953677
     locked: 0
-  - name: Player
-    uniqueID: 1407532381
-    locked: 0
   - name: Interactable
     uniqueID: 3396103713
+    locked: 0
+  - name: Player
+    uniqueID: 684394011
     locked: 0
